@@ -1,129 +1,162 @@
 {
-  "generated_at": "2026-04-21T06:18:45.750707+00:00",
-  "scanner_mode": "dynamic_news_universe",
+  "generated_at": "2026-04-21T06:39:40.676778+00:00",
+  "scanner_mode": "dynamic_news_universe_v2",
   "top_positive": [
     "AI",
-    "AMD",
-    "TSLA",
-    "RIVN",
     "AFRM",
+    "MRNA",
     "RXRX",
+    "AMD",
+    "RIVN",
+    "OXY",
     "NVDA",
-    "SOUN",
-    "OPEN",
-    "OXY"
+    "TSLA",
+    "SLB"
   ],
   "top_negative": [
     "SMCI",
+    "LCID",
     "UPST",
     "SOFI",
-    "LCID",
-    "SPY",
     "QQQ",
-    "MRNA"
+    "SPY"
   ],
   "symbols": {
     "SPY": {
-      "news_score": -2
+      "news_score": -1,
+      "article_count": 10
     },
     "QQQ": {
-      "news_score": -2
+      "news_score": -2,
+      "article_count": 10
     },
     "NVDA": {
-      "news_score": 1
+      "news_score": 3,
+      "article_count": 10
     },
     "AMD": {
-      "news_score": 2
+      "news_score": 4,
+      "article_count": 10
     },
     "SMCI": {
-      "news_score": -5
+      "news_score": -5,
+      "article_count": 10
     },
     "PLTR": {
-      "news_score": 0
+      "news_score": 0,
+      "article_count": 10
     },
     "AI": {
-      "news_score": 4
+      "news_score": 5,
+      "article_count": 10
     },
     "BBAI": {
-      "news_score": 0
+      "news_score": 0,
+      "article_count": 3
     },
     "SOUN": {
-      "news_score": 1
+      "news_score": 2,
+      "article_count": 10
     },
     "ARM": {
-      "news_score": 0
+      "news_score": 0,
+      "article_count": 10
     },
     "MU": {
-      "news_score": 0
+      "news_score": 0,
+      "article_count": 10
     },
     "TSLA": {
-      "news_score": 2
+      "news_score": 3,
+      "article_count": 10
     },
     "RIVN": {
-      "news_score": 2
+      "news_score": 4,
+      "article_count": 8
     },
     "LCID": {
-      "news_score": -3
+      "news_score": -5,
+      "article_count": 10
     },
     "AFRM": {
-      "news_score": 2
+      "news_score": 5,
+      "article_count": 8
     },
     "UPST": {
-      "news_score": -5
+      "news_score": -5,
+      "article_count": 10
     },
     "SOFI": {
-      "news_score": -4
+      "news_score": -5,
+      "article_count": 10
     },
     "OPEN": {
-      "news_score": 1
+      "news_score": 0,
+      "article_count": 10
     },
     "MRNA": {
-      "news_score": -1
+      "news_score": 5,
+      "article_count": 10
     },
     "BNTX": {
-      "news_score": 0
+      "news_score": 0,
+      "article_count": 3
     },
     "NVAX": {
-      "news_score": 0
+      "news_score": 0,
+      "article_count": 0
     },
     "SAVA": {
-      "news_score": 0
+      "news_score": 0,
+      "article_count": 10
     },
     "TEM": {
-      "news_score": 0
+      "news_score": 0,
+      "article_count": 10
     },
     "RXRX": {
-      "news_score": 2
+      "news_score": 5,
+      "article_count": 4
     },
     "XOM": {
-      "news_score": 0
+      "news_score": 0,
+      "article_count": 10
     },
     "CVX": {
-      "news_score": 0
+      "news_score": 0,
+      "article_count": 10
     },
     "OXY": {
-      "news_score": 1
+      "news_score": 4,
+      "article_count": 10
     },
     "SLB": {
-      "news_score": 0
+      "news_score": 3,
+      "article_count": 10
     },
     "HAL": {
-      "news_score": 1
+      "news_score": 0,
+      "article_count": 10
     },
     "TQQQ": {
-      "news_score": 0
+      "news_score": 0,
+      "article_count": 7
     },
     "SOXL": {
-      "news_score": 1
+      "news_score": 2,
+      "article_count": 5
     },
     "LABU": {
-      "news_score": 0
+      "news_score": 0,
+      "article_count": 3
     },
     "FNGU": {
-      "news_score": 0
+      "news_score": 0,
+      "article_count": 0
     },
     "NVDL": {
-      "news_score": 0
+      "news_score": 0,
+      "article_count": 1
     }
   }
 }
