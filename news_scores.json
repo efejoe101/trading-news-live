@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-20T03:01:28.497876+00:00",
+  "generated_at": "2026-04-21T05:40:53.672391+00:00",
   "symbols": {
     "SPY": {
-      "news_score": 0
+      "news_score": -3
     },
     "QQQ": {
       "news_score": 0
@@ -11,22 +11,22 @@
       "news_score": 1
     },
     "MSFT": {
-      "news_score": 0
+      "news_score": 1
     },
     "AAPL": {
       "news_score": 1
     },
     "AMZN": {
-      "news_score": 1
+      "news_score": 0
     },
     "META": {
-      "news_score": 0
+      "news_score": 1
     },
     "GOOGL": {
       "news_score": 0
     },
     "AMD": {
-      "news_score": 1
+      "news_score": 0
     },
     "TSLA": {
       "news_score": 1
