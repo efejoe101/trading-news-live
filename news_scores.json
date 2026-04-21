@@ -1,35 +1,48 @@
 {
-  "generated_at": "2026-04-21T08:11:40.678581+00:00",
+  "generated_at": "2026-04-21T08:23:16.846898+00:00",
   "scanner_mode": "dynamic_news_universe_v2",
   "market_sentiment": "neutral",
   "spy_score": 0,
   "qqq_score": 0,
-  "top_positive": [],
+  "top_positive": [
+    "AMD",
+    "PLTR"
+  ],
   "top_negative": [],
   "symbols": {
     "NVDA": {
       "news_score": 0,
-      "article_count": 0,
+      "article_count": 1,
       "top_headlines": []
     },
     "AMD": {
-      "news_score": 0,
-      "article_count": 0,
-      "top_headlines": []
+      "news_score": 3,
+      "article_count": 1,
+      "top_headlines": [
+        {
+          "title": "Nvidia Rival Cerebras Files for an IPO: What Investors Should Know",
+          "score": 3
+        }
+      ]
     },
     "SMCI": {
       "news_score": 0,
-      "article_count": 0,
+      "article_count": 1,
       "top_headlines": []
     },
     "PLTR": {
-      "news_score": 0,
-      "article_count": 0,
-      "top_headlines": []
+      "news_score": 1,
+      "article_count": 1,
+      "top_headlines": [
+        {
+          "title": "3 Defense\u2011and\u2011Data Stocks at the Intersection of AI, Targeting, and Trump's Expa",
+          "score": 1
+        }
+      ]
     },
     "AI": {
       "news_score": 0,
-      "article_count": 0,
+      "article_count": 1,
       "top_headlines": []
     },
     "BBAI": {
