@@ -1,35 +1,129 @@
 {
-  "generated_at": "2026-04-21T05:40:53.672391+00:00",
+  "generated_at": "2026-04-21T06:18:45.750707+00:00",
+  "scanner_mode": "dynamic_news_universe",
+  "top_positive": [
+    "AI",
+    "AMD",
+    "TSLA",
+    "RIVN",
+    "AFRM",
+    "RXRX",
+    "NVDA",
+    "SOUN",
+    "OPEN",
+    "OXY"
+  ],
+  "top_negative": [
+    "SMCI",
+    "UPST",
+    "SOFI",
+    "LCID",
+    "SPY",
+    "QQQ",
+    "MRNA"
+  ],
   "symbols": {
     "SPY": {
-      "news_score": -3
+      "news_score": -2
     },
     "QQQ": {
-      "news_score": 0
+      "news_score": -2
     },
     "NVDA": {
       "news_score": 1
     },
-    "MSFT": {
-      "news_score": 1
-    },
-    "AAPL": {
-      "news_score": 1
-    },
-    "AMZN": {
-      "news_score": 0
-    },
-    "META": {
-      "news_score": 1
-    },
-    "GOOGL": {
-      "news_score": 0
-    },
     "AMD": {
+      "news_score": 2
+    },
+    "SMCI": {
+      "news_score": -5
+    },
+    "PLTR": {
+      "news_score": 0
+    },
+    "AI": {
+      "news_score": 4
+    },
+    "BBAI": {
+      "news_score": 0
+    },
+    "SOUN": {
+      "news_score": 1
+    },
+    "ARM": {
+      "news_score": 0
+    },
+    "MU": {
       "news_score": 0
     },
     "TSLA": {
+      "news_score": 2
+    },
+    "RIVN": {
+      "news_score": 2
+    },
+    "LCID": {
+      "news_score": -3
+    },
+    "AFRM": {
+      "news_score": 2
+    },
+    "UPST": {
+      "news_score": -5
+    },
+    "SOFI": {
+      "news_score": -4
+    },
+    "OPEN": {
       "news_score": 1
+    },
+    "MRNA": {
+      "news_score": -1
+    },
+    "BNTX": {
+      "news_score": 0
+    },
+    "NVAX": {
+      "news_score": 0
+    },
+    "SAVA": {
+      "news_score": 0
+    },
+    "TEM": {
+      "news_score": 0
+    },
+    "RXRX": {
+      "news_score": 2
+    },
+    "XOM": {
+      "news_score": 0
+    },
+    "CVX": {
+      "news_score": 0
+    },
+    "OXY": {
+      "news_score": 1
+    },
+    "SLB": {
+      "news_score": 0
+    },
+    "HAL": {
+      "news_score": 1
+    },
+    "TQQQ": {
+      "news_score": 0
+    },
+    "SOXL": {
+      "news_score": 1
+    },
+    "LABU": {
+      "news_score": 0
+    },
+    "FNGU": {
+      "news_score": 0
+    },
+    "NVDL": {
+      "news_score": 0
     }
   }
 }
