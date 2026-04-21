@@ -1,219 +1,100 @@
 {
-  "generated_at": "2026-04-21T07:20:03.192066+00:00",
+  "generated_at": "2026-04-21T08:06:01.399514+00:00",
   "scanner_mode": "dynamic_news_universe_v2",
-  "market_sentiment": "bearish",
-  "spy_score": -2,
-  "qqq_score": -2,
-  "top_positive": [
-    "SOUN",
-    "AFRM",
-    "TSLA",
-    "RXRX",
-    "RIVN",
-    "MRNA",
-    "HAL",
-    "NVDA",
-    "MU",
-    "CVX"
-  ],
-  "top_negative": [
-    "SMCI",
-    "UPST",
-    "SOFI",
-    "AI",
-    "LCID",
-    "AMD",
-    "PLTR"
-  ],
+  "market_sentiment": "neutral",
+  "spy_score": 0,
+  "qqq_score": 0,
+  "top_positive": [],
+  "top_negative": [],
   "symbols": {
     "NVDA": {
-      "news_score": 4,
-      "article_count": 14,
-      "top_headlines": [
-        {
-          "title": "AI Boom and Energy Surge: 5 S&P 500 Stocks Analysts Say Could Soar in 2026",
-          "score": 3
-        },
-        {
-          "title": "Marvell Technology Stock Just Hit New All-Time Highs. Should You Buy It Here?",
-          "score": 2
-        }
-      ]
+      "news_score": 0,
+      "article_count": 0,
+      "top_headlines": []
     },
     "AMD": {
-      "news_score": -2,
-      "article_count": 15,
-      "top_headlines": [
-        {
-          "title": "Weekly news roundup: Samsung launches voluntary retirement; Qualcomm moves into ",
-          "score": 2
-        },
-        {
-          "title": "Minisforum's N5 Max NAS with AMD Strix Halo APU and up to 200TB of storage will ",
-          "score": 1
-        }
-      ]
+      "news_score": 0,
+      "article_count": 0,
+      "top_headlines": []
     },
     "SMCI": {
-      "news_score": -10,
-      "article_count": 15,
+      "news_score": 0,
+      "article_count": 0,
       "top_headlines": []
     },
     "PLTR": {
-      "news_score": -2,
-      "article_count": 14,
-      "top_headlines": [
-        {
-          "title": "10 Best AI Stocks to Buy in 2026 as Artificial Intelligence Spending Accelerates",
-          "score": 1
-        }
-      ]
+      "news_score": 0,
+      "article_count": 0,
+      "top_headlines": []
     },
     "AI": {
-      "news_score": -6,
-      "article_count": 15,
-      "top_headlines": [
-        {
-          "title": "Urology Devices Market to Reach $58.63 Billion by 2031 with Robotic Urologic Sur",
-          "score": 3
-        },
-        {
-          "title": "MSI\u2019s New 32\u2033 QD-OLED Gaming Monitors Kill the Purple Tint Problem, Boost Black ",
-          "score": 1
-        },
-        {
-          "title": "Google rolls out AI-powered search app for Windows",
-          "score": 1
-        }
-      ]
+      "news_score": 0,
+      "article_count": 0,
+      "top_headlines": []
     },
     "BBAI": {
       "news_score": 0,
-      "article_count": 3,
+      "article_count": 0,
       "top_headlines": []
     },
     "SOUN": {
-      "news_score": 9,
-      "article_count": 15,
-      "top_headlines": [
-        {
-          "title": "SoundHound AI (SOUN): Qu\u00e1litas Expansion Shows the Company\u2019s Push Beyond Voice I",
-          "score": 4
-        },
-        {
-          "title": "SoundHound AI and Associated Carrier Group Partner to Bring Agentic AI to Teleco",
-          "score": 2
-        }
-      ]
+      "news_score": 0,
+      "article_count": 0,
+      "top_headlines": []
     },
     "ARM": {
       "news_score": 0,
-      "article_count": 14,
+      "article_count": 0,
       "top_headlines": []
     },
     "MU": {
-      "news_score": 4,
-      "article_count": 15,
-      "top_headlines": [
-        {
-          "title": "Aletheia Capital Names Micron Technology (MU) As a Top Gainer From AI Demand Sur",
-          "score": 2
-        }
-      ]
+      "news_score": 0,
+      "article_count": 0,
+      "top_headlines": []
     },
     "TSLA": {
-      "news_score": 8,
-      "article_count": 14,
-      "top_headlines": [
-        {
-          "title": "Tesla Rallies 5% as Q1 Earnings Loom: A 33% Profit Surge Estimate Has Investors ",
-          "score": 4
-        },
-        {
-          "title": "Here\u2019s What RBC Capital Has to Say About Tesla (TSLA)",
-          "score": 1
-        }
-      ]
+      "news_score": 0,
+      "article_count": 0,
+      "top_headlines": []
     },
     "RIVN": {
-      "news_score": 6,
-      "article_count": 8,
-      "top_headlines": [
-        {
-          "title": "Rivian (RIVN) to start R2 Deliveries with $58,000 Launch Edition this Spring",
-          "score": 2
-        },
-        {
-          "title": "A $20 Billion Opportunity Hiding Inside Rivian Stock",
-          "score": 1
-        }
-      ]
+      "news_score": 0,
+      "article_count": 0,
+      "top_headlines": []
     },
     "LCID": {
-      "news_score": -5,
-      "article_count": 15,
-      "top_headlines": [
-        {
-          "title": "Lucid (LCID) Secures $1.05B in Capital and Expands Uber Partnership",
-          "score": 4
-        }
-      ]
+      "news_score": 0,
+      "article_count": 0,
+      "top_headlines": []
     },
     "AFRM": {
-      "news_score": 9,
-      "article_count": 8,
-      "top_headlines": [
-        {
-          "title": "Affirm (AFRM) Expands Partnerships Driving Fintech Growth",
-          "score": 6
-        },
-        {
-          "title": "Affirm Holdings (AFRM) Offers Attractive Entry Point As An Undervalued Growth St",
-          "score": 2
-        },
-        {
-          "title": "Affirm: A Solid Footing or More Volatility Ahead?",
-          "score": 1
-        }
-      ]
+      "news_score": 0,
+      "article_count": 0,
+      "top_headlines": []
     },
     "UPST": {
-      "news_score": -10,
-      "article_count": 13,
-      "top_headlines": [
-        {
-          "title": "Upstart Stock Surges 11% on AI Lending Momentum as 2026 Recovery Bets Intensify",
-          "score": 2
-        }
-      ]
+      "news_score": 0,
+      "article_count": 0,
+      "top_headlines": []
     },
     "SOFI": {
-      "news_score": -9,
-      "article_count": 14,
+      "news_score": 0,
+      "article_count": 0,
       "top_headlines": []
     },
     "OPEN": {
       "news_score": 0,
-      "article_count": 14,
+      "article_count": 0,
       "top_headlines": []
     },
     "MRNA": {
-      "news_score": 6,
-      "article_count": 14,
-      "top_headlines": [
-        {
-          "title": "Comprehensive profiling of clinically approved kinase inhibitors reveals mutatio",
-          "score": 6
-        },
-        {
-          "title": "Tandem and mild synthesis of a symmetric secondary alcohol toward an ionizable l",
-          "score": 3
-        }
-      ]
+      "news_score": 0,
+      "article_count": 0,
+      "top_headlines": []
     },
     "BNTX": {
       "news_score": 0,
-      "article_count": 3,
+      "article_count": 0,
       "top_headlines": []
     },
     "NVAX": {
@@ -223,103 +104,57 @@
     },
     "SAVA": {
       "news_score": 0,
-      "article_count": 15,
+      "article_count": 0,
       "top_headlines": []
     },
     "TEM": {
       "news_score": 0,
-      "article_count": 15,
+      "article_count": 0,
       "top_headlines": []
     },
     "RXRX": {
-      "news_score": 8,
-      "article_count": 4,
-      "top_headlines": [
-        {
-          "title": "Why Recursion Pharmaceuticals Inc (RXRX) Expanded Citeline Partnership",
-          "score": 4
-        },
-        {
-          "title": "Recursion Expands Strategic Partnership with Citeline to Advance Its AI-Enabled ",
-          "score": 3
-        }
-      ]
+      "news_score": 0,
+      "article_count": 0,
+      "top_headlines": []
     },
     "XOM": {
       "news_score": 0,
-      "article_count": 15,
+      "article_count": 0,
       "top_headlines": []
     },
     "CVX": {
-      "news_score": 4,
-      "article_count": 15,
-      "top_headlines": [
-        {
-          "title": "S&P 500 wipes $830 billion as US stock market today opens after President Trump ",
-          "score": 2
-        }
-      ]
+      "news_score": 0,
+      "article_count": 0,
+      "top_headlines": []
     },
     "OXY": {
-      "news_score": 4,
-      "article_count": 14,
-      "top_headlines": [
-        {
-          "title": "Inspira Technologies Appoints Yoav Rozanovich as Chief Business Officer to Drive",
-          "score": 6
-        },
-        {
-          "title": "$100 Oil Should Be XOP\u2019s Best Year Ever. Why Isn\u2019t It?",
-          "score": 1
-        }
-      ]
+      "news_score": 0,
+      "article_count": 0,
+      "top_headlines": []
     },
     "SLB": {
       "news_score": 0,
-      "article_count": 15,
-      "top_headlines": [
-        {
-          "title": "Gazprom Digital Transformation Strategy Analysis Report 2025-2026: Accelerators,",
-          "score": 2
-        },
-        {
-          "title": "Petronas, SLB Ink Suriname Partnership",
-          "score": 2
-        },
-        {
-          "title": "SLB OneSubsea and Subsea7 Sign Collaboration Agreement with PETRONAS Suriname",
-          "score": 2
-        }
-      ]
+      "article_count": 0,
+      "top_headlines": []
     },
     "HAL": {
-      "news_score": 5,
-      "article_count": 15,
-      "top_headlines": [
-        {
-          "title": "Defence stocks breakout: Should you book profits or buy the dip? Anand James ans",
-          "score": 3
-        }
-      ]
+      "news_score": 0,
+      "article_count": 0,
+      "top_headlines": []
     },
     "TQQQ": {
       "news_score": 0,
-      "article_count": 6,
+      "article_count": 0,
       "top_headlines": []
     },
     "SOXL": {
-      "news_score": 4,
-      "article_count": 5,
-      "top_headlines": [
-        {
-          "title": "Dip-Buyers Ride Longest Negative Signal Since 2022 To Next Tactical Bottom",
-          "score": 2
-        }
-      ]
+      "news_score": 0,
+      "article_count": 0,
+      "top_headlines": []
     },
     "LABU": {
       "news_score": 0,
-      "article_count": 3,
+      "article_count": 0,
       "top_headlines": []
     },
     "FNGU": {
@@ -329,17 +164,17 @@
     },
     "NVDL": {
       "news_score": 0,
-      "article_count": 1,
+      "article_count": 0,
       "top_headlines": []
     },
     "SPY": {
-      "news_score": -2,
-      "article_count": 13,
+      "news_score": 0,
+      "article_count": 0,
       "top_headlines": []
     },
     "QQQ": {
-      "news_score": -2,
-      "article_count": 15,
+      "news_score": 0,
+      "article_count": 0,
       "top_headlines": []
     }
   }
