@@ -1,32 +1,40 @@
 {
-  "generated_at": "2026-04-21T08:37:45.346636+00:00",
+  "generated_at": "2026-04-22T04:22:51.968186+00:00",
   "scanner_mode": "dynamic_news_universe_v2",
   "market_sentiment": "neutral",
   "spy_score": 0,
   "qqq_score": 0,
   "top_positive": [
     "AMD",
+    "NVDA",
     "PLTR"
   ],
-  "top_negative": [],
+  "top_negative": [
+    "SMCI"
+  ],
   "symbols": {
     "NVDA": {
-      "news_score": 0,
-      "article_count": 1,
-      "top_headlines": []
-    },
-    "AMD": {
-      "news_score": 3,
+      "news_score": 1,
       "article_count": 1,
       "top_headlines": [
         {
-          "title": "Nvidia Rival Cerebras Files for an IPO: What Investors Should Know",
-          "score": 3
+          "title": "Is the Magnificent Seven Yesterday's News? Here's What History Says",
+          "score": 1
+        }
+      ]
+    },
+    "AMD": {
+      "news_score": 8,
+      "article_count": 1,
+      "top_headlines": [
+        {
+          "title": "Intel Stock Is Back: Agentic AI Is Filling Fabs And Fattening Margins",
+          "score": 8
         }
       ]
     },
     "SMCI": {
-      "news_score": 0,
+      "news_score": -8,
       "article_count": 1,
       "top_headlines": []
     },
@@ -35,7 +43,7 @@
       "article_count": 1,
       "top_headlines": [
         {
-          "title": "3 Defense\u2011and\u2011Data Stocks at the Intersection of AI, Targeting, and Trump's Expa",
+          "title": "2 Stocks I'm Ready to Buy if the Market Drops Again",
           "score": 1
         }
       ]
