@@ -1,202 +1,186 @@
 {
-  "generated_at": "2026-04-22T04:22:51.968186+00:00",
-  "scanner_mode": "dynamic_news_universe_v2",
-  "market_sentiment": "neutral",
-  "spy_score": 0,
-  "qqq_score": 0,
+  "generated_at": "2026-04-22T04:33:57.466544+00:00",
+  "scanner_mode": "dynamic_news_universe_v3",
   "top_positive": [
-    "AMD",
+    "SPY",
+    "QQQ",
     "NVDA",
+    "AMD",
     "PLTR"
   ],
   "top_negative": [
     "SMCI"
   ],
   "symbols": {
+    "SPY": {
+      "news_score": 5,
+      "article_count": 10,
+      "last_updated": "2026-04-22T04:33:43.961634+00:00"
+    },
+    "QQQ": {
+      "news_score": 5,
+      "article_count": 10,
+      "last_updated": "2026-04-22T04:33:46.673075+00:00"
+    },
     "NVDA": {
-      "news_score": 1,
-      "article_count": 1,
-      "top_headlines": [
-        {
-          "title": "Is the Magnificent Seven Yesterday's News? Here's What History Says",
-          "score": 1
-        }
-      ]
+      "news_score": 5,
+      "article_count": 10,
+      "last_updated": "2026-04-22T04:33:49.369498+00:00"
     },
     "AMD": {
-      "news_score": 8,
-      "article_count": 1,
-      "top_headlines": [
-        {
-          "title": "Intel Stock Is Back: Agentic AI Is Filling Fabs And Fattening Margins",
-          "score": 8
-        }
-      ]
+      "news_score": 5,
+      "article_count": 10,
+      "last_updated": "2026-04-22T04:33:52.092895+00:00"
     },
     "SMCI": {
-      "news_score": -8,
-      "article_count": 1,
-      "top_headlines": []
+      "news_score": -5,
+      "article_count": 10,
+      "last_updated": "2026-04-22T04:33:54.811182+00:00"
     },
     "PLTR": {
       "news_score": 1,
       "article_count": 1,
-      "top_headlines": [
-        {
-          "title": "2 Stocks I'm Ready to Buy if the Market Drops Again",
-          "score": 1
-        }
-      ]
+      "last_updated": null
     },
     "AI": {
       "news_score": 0,
       "article_count": 1,
-      "top_headlines": []
+      "last_updated": null
     },
     "BBAI": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "SOUN": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "ARM": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "MU": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "TSLA": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "RIVN": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "LCID": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "AFRM": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "UPST": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "SOFI": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "OPEN": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "MRNA": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "BNTX": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "NVAX": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "SAVA": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "TEM": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "RXRX": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "XOM": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "CVX": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "OXY": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "SLB": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "HAL": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "TQQQ": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "SOXL": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "LABU": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "FNGU": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     },
     "NVDL": {
       "news_score": 0,
       "article_count": 0,
-      "top_headlines": []
-    },
-    "SPY": {
-      "news_score": 0,
-      "article_count": 0,
-      "top_headlines": []
-    },
-    "QQQ": {
-      "news_score": 0,
-      "article_count": 0,
-      "top_headlines": []
+      "last_updated": null
     }
   }
 }
